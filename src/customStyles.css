@@ -1,0 +1,15 @@
+.bg-gradient-info {
+    background: linear-gradient(90deg, #124F72 0%, #2C759E 100%) !important;
+}
+
+.bg-gradient-secundary {
+    background: linear-gradient(90deg, #FFC700 0.11%, #F8D548 100%) !important;
+}
+
+
+.btn-primary {
+    color: #fff;
+    background-color: #2C759E;
+    border-color: #2C759E;
+    box-shadow: 0 4px 6px rgb(50 50 93 / 11%), 0 1px 3px rgb(0 0 0 / 8%);
+}
